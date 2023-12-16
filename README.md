@@ -11,6 +11,6 @@
    
 import os
 
-os.environ['R_HOME'] = '_write the path you got in step 2_'
+os.environ['R_HOME'] = '_write the path you got in step 1_'
 
 **You can see the notebook [here](https://pythonversusr.github.io/basicDataStructures_sets/)**
